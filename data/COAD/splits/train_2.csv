@@ -1,0 +1,5 @@
+sample_id,patches_path,expr_path
+ZEN47,patches/ZEN47.h5,adata/ZEN47.h5ad
+ZEN46,patches/ZEN46.h5,adata/ZEN46.h5ad
+ZEN45,patches/ZEN45.h5,adata/ZEN45.h5ad
+ZEN44,patches/ZEN44.h5,adata/ZEN44.h5ad

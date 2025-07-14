@@ -1,0 +1,4 @@
+sample_id,patches_path,expr_path
+NCBI761,patches/NCBI761.h5,adata/NCBI761.h5ad
+NCBI760,patches/NCBI760.h5,adata/NCBI760.h5ad
+NCBI759,patches/NCBI759.h5,adata/NCBI759.h5ad

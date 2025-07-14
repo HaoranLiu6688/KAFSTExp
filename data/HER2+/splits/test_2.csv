@@ -1,0 +1,7 @@
+sample_id,patches_path,expr_path
+SPA142,patches/SPA142.h5,adata/SPA142.h5ad
+SPA141,patches/SPA141.h5,adata/SPA141.h5ad
+SPA140,patches/SPA140.h5,adata/SPA140.h5ad
+SPA139,patches/SPA139.h5,adata/SPA139.h5ad
+SPA138,patches/SPA138.h5,adata/SPA138.h5ad
+SPA137,patches/SPA137.h5,adata/SPA137.h5ad
